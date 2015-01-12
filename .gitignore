@@ -18,6 +18,7 @@ bin-debug/*
 report/*
 bin-test/*
 docs/*
+out/
 .flexLibProperties
 
 #Java Noise
